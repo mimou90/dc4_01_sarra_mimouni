@@ -5,5 +5,5 @@ mis à jour*/
 function exo_trois_tableau (tableau) {
     const tableau_deux = tableau.map( nombre => nombre +1);
     console.log(tableau_deux)
-
+    
 }
